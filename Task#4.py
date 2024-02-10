@@ -2,4 +2,4 @@
 
 n = int(input("Enter the Table to be printed:"))
 for i in range(1,11):
-    print(n , 'X', i, "=", n*i)
+    print(n , 'X', i, "=", n*i) 
